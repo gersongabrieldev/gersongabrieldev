@@ -111,19 +111,24 @@ Criação de soluções digitais para empresas, com foco em:
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">  
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gersongabrieldev&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersongabrieldev&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" alt="Top Languages"/>
-
-</div>
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gersongabrieldev&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gersongabrieldev&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Gráfico de contribuições do GitHub"/>
+
+</div>
+
+---
+
+## 🧩 Stack principal
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Foco-Software%20%2B%20Dados%20%2B%20IA%20%2B%20Agro-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel%20%7C%20Python-0D1117?style=for-the-badge&logo=codeigniter&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Dados-SQL%20%7C%20Oracle%20%7C%20Power%20BI-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Infra-Docker%20%7C%20VPS%20%7C%20Redes-0D1117?style=for-the-badge&logo=docker&logoColor=00FF00"/>
 
 </div>
 
